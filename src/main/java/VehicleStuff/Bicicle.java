@@ -1,4 +1,4 @@
-package org.example;
+package VehicleStuff;
 
 public class Bicicle extends Vehicle{
 

@@ -1,4 +1,4 @@
-package org.example;
+package VehicleStuff;
 
 public class Truck extends Vehicle{
     public Truck(String color, String mark, boolean isWorking) {

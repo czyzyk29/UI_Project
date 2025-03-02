@@ -1,4 +1,4 @@
-import org.example.Vehicle;
+package VehicleStuff;
 
 public class Car extends Vehicle {
 

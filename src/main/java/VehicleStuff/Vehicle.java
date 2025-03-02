@@ -1,12 +1,12 @@
-package org.example;
+package VehicleStuff;
 
 public abstract class Vehicle {
 
-    String color;
+    String color = "";
     String mark;
     boolean isWorking;
 
-    public abstract void run();
+    abstract void run();
 
 
     public void getVehicleInfo() {

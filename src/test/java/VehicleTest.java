@@ -1,5 +1,6 @@
-import org.example.Bicicle;
-import org.example.Truck;
+import VehicleStuff.Bicicle;
+import VehicleStuff.Car;
+import VehicleStuff.Truck;
 import org.junit.jupiter.api.Test;
 
 public class VehicleTest {
